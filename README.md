@@ -1,5 +1,5 @@
 # Aicademo :bulb::arrow_forward:
-# Aicademo: Integrating AI and Video Generation for Demonstration Video in Academic Research
+## Aicademo: Integrating AI and Video Generation for Demonstration Video in Academic Research
 
 Ka Man CHOI, Sijia LI, Mengyi DENG, Linyi HUANG, Xiaoyi FU
 
